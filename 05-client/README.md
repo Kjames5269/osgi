@@ -40,7 +40,7 @@ Congratulations, you have now consumed an OSGi service!
 
 #### Whiteboard pattern
 If you read much about OSGi, you will quickly encounter the _whiteboard pattern_. The 
-whiteboard pattern is a designg pattern. Articles on the web that describe the whiteboard
+whiteboard pattern is a design pattern. Articles on the web that describe the whiteboard
 pattern often compare and contrast it to the _observer_ pattern. I wish I were an expert on 
 the whiteboard pattern so I could write about the it with more confidence.
 
